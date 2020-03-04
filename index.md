@@ -1,4 +1,4 @@
-Hi, I'm Brady O'Connell. I'm a Software Engineer who has previously worked across the stack at companies like Uber, Remix, Google, and Palantir. I currently live in Brooklyn, previously lived in San Francisco, and grew up in Maryland.
+Hi, I'm Brady O'Connell. I'm a Software Engineer who has previously worked at Uber, Remix, Google, and Palantir. I currently live in Brooklyn, previously lived in San Francisco, and grew up in Maryland.
 
 I like to play sports, travel, hike, play video games, and read. I love the internet. I grew up playing soccer but mostly play volleyball, tennis, and basketball now. I studied Computer Science at the University of Maryland, and am a fan of my alma mater basketball team.
 
